@@ -6,7 +6,6 @@ Technologies Used
 Python, OpenCV, NumPy, Matplotlib, Jupyter Notebook
 
 1. Computer Vision Basics
-
 File: Computer Vision.ipynb
 This notebook contains foundational computer vision operations such as: Image loading, Image filtering, Edge detection, Image transformations, Basic preprocessing techniques
 This helped build the foundation before working on advanced projects.
